@@ -5,7 +5,7 @@ import java.io.*;
 
 //all modules used in the 'Weather' set of examples from week 3.
 //data is not pre loaded
-//Data can be found at https://www.dukelearntoprogram.com//course2/files.php through the "All Example weather CSV Data" link.
+//Data can be found at https://www.dukelearntoprogram.com//course2/files.php through the "All Example Country Export CSV Data" link.
 //test functions for fundamental modules have been clubbed under the testFunctions() modules.
 
 public class csvweather {
