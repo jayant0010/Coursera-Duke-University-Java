@@ -120,9 +120,9 @@ public class csvweather {
         double count = 0;
         for(CSVRecord record : parser){
             temp = Double.parseDouble(record.get("TemperatureF"));
-            count++;//move count inside the if -9999 loop if the instances of invalid(-9999) temperatures is to be ignored
             if(temp!=-9999.0){
                 tempt = temp + tempt;
+                count++;
             }
             
             
