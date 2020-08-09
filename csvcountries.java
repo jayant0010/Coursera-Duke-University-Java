@@ -1,11 +1,12 @@
 import edu.duke.*;
 import org.apache.commons.csv.*;
-/**
- * Write a description of csvcountries here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
+//all modules used in the 'Country export' set of examples from week 3.
+//data is not pre loaded
+//Data can be found at https://www.dukelearntoprogram.com//course2/files.php through the "All Example Contry Exports CSV Data" link.
+//test functions for fundamental modules have been clubbed under the testFunctions() modules.
+
+
 public class csvcountries {
     public void listExporters(CSVParser csv, String s){
         for (CSVRecord record : csv){
