@@ -1,4 +1,4 @@
-# Coursera-Duke-University-Java
+# Java Programming and Software Engineering Fundamentals - Duke University
 Solutions for some problem statements from the Java Specialisation Course on Coursera.com by Duke University.
 Great examples that will help you understand the significance, speciality and uniqueness of different data-structures, algorithms and their implementations in Java.
 
