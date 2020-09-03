@@ -12,4 +12,4 @@ https://www.dukelearntoprogram.com//index.php
 NOTE: Several methods and classes used in these projects are from the open source edu.duke library. 
       The files will compile efforlessly in the custom BlueJ environment you can download here : https://www.dukelearntoprogram.com//downloads/bluej.php?course=4
       To run the files in other environmnents, you will have to import the edu.duke package you can find here : https://www.dukelearntoprogram.com//downloads/openSource.php?course=4
-      Alternatively, you can use the package by unzipping the duke.zip file included in the repository.
+      Alternatively, you can use the package by unzipping the duke_source.zip file included in the repository.
